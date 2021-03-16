@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jeehae
-- 📫 Send me an [email] (https://jeehaemoon.github.io/#contact)
+- 📫 Send me an [email](https://jeehaemoon.github.io/#contact)
 
 <!---
 jeehaemoon/jeehaemoon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
