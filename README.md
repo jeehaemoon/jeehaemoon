@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jeehae
+# 👋 Hi there, I’m Jeehae.
 - 📫 Send me an [email](https://jeehaemoon.github.io/#contact)
 
 <!---
