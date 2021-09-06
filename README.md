@@ -1,6 +1,6 @@
 # 👋 Hi there, I’m Jeehae.
 
-#### I'm a mechanical engineering graduate based in Montreal, Canada. I am currently learning HTML, CSS, and JavaScript.
+#### I'm a full-stack web developer based in Montreal, Canada.
 
 
 
